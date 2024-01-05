@@ -1,4 +1,4 @@
-### <div align="center">Adam Wu 武亚强</div>  
+   Adam Wu 武亚强
   
 
 - 联想集团高级总监，联想研究院主任研究员  
