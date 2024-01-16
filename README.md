@@ -12,7 +12,7 @@
 
 
 ## Contact with me  
-wuyqe(at)lenovo.com  
+wuyqe(at)lenovo(dot)com  
 
 <br/>  
 
