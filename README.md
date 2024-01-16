@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/xjtufy/yaqiangwu/blob/main/271A9244----------.JPG" align="center" height="" width="300"/>
 </div>  
    Adam Wu 武亚强
   
