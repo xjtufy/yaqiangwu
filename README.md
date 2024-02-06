@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://github.com/xjtufy/yaqiangwu/blob/main/271A9244----------.JPG" align="center" height="" width="300"/>
+<img src="https://github.com/xjtufy/yaqiangwu/blob/main/271A9244----------.JPG" align="center" height="" width="200"/>
 </div>  
    Adam Wu 武亚强
   
 
-- 联想集团高级总监，联想研究院主任研究员
+- 联想集团高级总监，研究院主任研究员
 - 西安交通大学计算机学院 兼职教授   
 - 计算机学会杰出会员，多媒体技术常务委员，网络与通信执行委员 
   
@@ -24,7 +24,8 @@ wuyqe(at)lenovo(dot)com
 
 ### 2024  
 
-
+- 1月30日，团队虚实融合的智能教学环境构建关键技术及重大应用项目获得2023年产学研合作创新成果 一等奖 。
+  
 - 1月9日， 团队研发的车智能助理在CES 2024亮相，主要搭载自研数字人生成和驱动技术，知识增强的车载大模型。
 
 ### 2023  
